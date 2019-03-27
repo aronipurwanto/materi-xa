@@ -1,5 +1,5 @@
 package day06;
-
+/*
 public class Honda02 extends Bike05 {
 
 	void run() {
@@ -11,5 +11,6 @@ public class Honda02 extends Bike05 {
 		honda.run();
 
 	}
+	
 }
-
+*/
