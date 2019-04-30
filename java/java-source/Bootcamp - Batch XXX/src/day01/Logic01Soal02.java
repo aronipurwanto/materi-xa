@@ -11,10 +11,11 @@ public class Logic01Soal02 {
 		input = new Scanner(System.in);
 		// show text "Input your Text :" on console
 		System.out.println("Input your Number : ");
-		// and then grab all text from keybord and convert to int using method parseInt
+		// and then grab all text from keybord and convert 
+		// to int using method parseInt
 		int n = Integer.parseInt(input.nextLine());
 		// create variable number, and set initial value
-		int number=1;
+		int number=2;
 		// looping start from 0, and max number from input
 		for (int i = 0; i < n; i++) {
 			// show value variable i to console
@@ -24,3 +25,4 @@ public class Logic01Soal02 {
 		}
 	}
 }
+

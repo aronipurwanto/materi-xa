@@ -11,7 +11,8 @@ public class Logic01Soal01 {
 		input = new Scanner(System.in);
 		// show text "Input your Text :" on console
 		System.out.println("Input your Number : ");
-		// and then grab all text from keybord and convert to int using method parseInt
+		// and then grab all text from keybord and convert
+		//to int using method parseInt
 		int n = Integer.parseInt(input.nextLine());
 		// create variable number, and set initial value
 		int number=1;
@@ -24,3 +25,5 @@ public class Logic01Soal01 {
 		}
 	}
 }
+
+
